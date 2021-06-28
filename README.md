@@ -2,16 +2,16 @@
 
 ## Introduction 
 **My name is _Keaton Jones_. <br> 
-I am thrilled to embark on this coding <br>
-journey with my classmates.**
+I am thrilled 😃 to embark on this coding <br>
+journey with my classmates!!!**
 
 ## My Hobbies
 <ul>
   <li> running 🏃 </li>
   <li> photography 📸 </li>
-  <li> videography :EMOJICODE:
-  <li> music </li>
-  <li> art </li>
+  <li> videography 🎥 </li>
+  <li> music 🎵 </li>
+  <li> art 🎨 </li>
   </ul>
 
 
