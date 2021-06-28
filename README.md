@@ -1,3 +1,4 @@
 # Growth Mindset Notes
 
-## heading
+## Introduction
+My name is Keaton Jones 
