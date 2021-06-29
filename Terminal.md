@@ -1,4 +1,4 @@
-# Learning aobut Terminals
+# Learning about Terminals
 
 ## Terminals
 Usually refers to a program, or emulator, <br>
