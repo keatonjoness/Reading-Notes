@@ -29,3 +29,10 @@ and may also be referred to as a command
  Is an object on a computer that stores data, information, settings, or commands <br>
  used with a computer program. In a GUI (graphical user interface), such as Microsoft Windows, <br>
  files display as icons that relate to the program that opens the file.
+ 
+ ### Examples of Files
+<ul>
+<li> file.exe - an executable file, or program. </li>
+ <li> file.txt - a plain text file. </li>
+ <li> file.png, file.gif, file.jpg - an image. </li>
+</ul>
