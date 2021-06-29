@@ -17,3 +17,15 @@ and may also be referred to as a command
   <li> ls (list) </li>
   <li> cd (change directory) </li>
   </ol>
+
+## Info About Paths
+ the general form of the name of a file or directory, <br>
+ specifies a unique location in a file system. <br>
+ A path points to a file system location by following <br>
+ the directory tree hierarchy  expressed in a string of characters <br>
+ in which path components, separated by a delimiting character, represent each directory.
+ 
+ ## Info About Files
+ Is an object on a computer that stores data, information, settings, or commands <br>
+ used with a computer program. In a GUI (graphical user interface), such as Microsoft Windows, <br>
+ files display as icons that relate to the program that opens the file.
