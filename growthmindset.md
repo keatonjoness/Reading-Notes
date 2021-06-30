@@ -1,4 +1,4 @@
-## Growth Mindset Explanation
+# Growth Mindset Notes
 <p> Growth mindset to me is replacing old habits <br>
 with new effective habits. Also figuring out <br>
 where you are lacking at and figuring out how to fix it. </p>

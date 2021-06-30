@@ -1,8 +1,4 @@
-# Growth Mindset Notes
-
-
-
-## Introduction 
+# Introduction 
 
 <img src="https://user-images.githubusercontent.com/85812777/123681067-f666b500-d80e-11eb-9fb5-2d29ae681276.png" width="250" length="250"> 
 
