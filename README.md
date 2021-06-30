@@ -24,5 +24,5 @@ journey with my classmates!!!** <br>
   <li> art 🎨 </li>
   </ul>
 
-  [My Markdown Notes](/Reading-Notes/Markdown)
-  [My Terminal Notes](/Reading-Notes/Terminal)
+  * [My Markdown Notes](/Reading-Notes/Markdown)
+  * [My Terminal Notes](/Reading-Notes/Terminal)
