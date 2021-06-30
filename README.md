@@ -24,7 +24,7 @@ journey with my classmates!!!** <br>
   <li> art 🎨 </li>
   </ul>
 
- ### Table of Contents
+## Table of Contents
   * [My Markdown Notes](/Reading-Notes/Markdown)
   * [My Terminal Notes](/Reading-Notes/Terminal)
   * [My Growth Mindset Notes](/Reading-Notes/growthmindset)
