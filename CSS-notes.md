@@ -57,3 +57,18 @@ users-- how they are styled, laid out, etc.
 
  #### Inline CSS 
   * An inline style may be used to apply a unique style for a single element.
+
+  ### Selectors
+
+  * **Basic selectors** are fundamental selectors; these are the most basic <br>
+    selectors that are frequently combined to create other, more complex selectors. 
+
+  <ul>
+   <li> Universal selector *, ns|*, *|*, |* </li>
+   <li> Type selector elementname </li>
+   <li> Class selector .classname </li>
+   <li> ID selector #idname </li>
+   <li> Attribute selector [attr=value] </li>
+   </ul> 
+
+   
