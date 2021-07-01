@@ -24,5 +24,4 @@ journey with my classmates!!!** <br>
   * [My Markdown Notes](/Reading-Notes/Markdown)
   * [My Terminal Notes](/Reading-Notes/Terminal)
   * [My Growth Mindset Notes](/Reading-Notes/growthmindset)
-  * [My CSS Notes](Reading-Notes/CSS-notes)
-  
+  * [My CSS Notes](/Reading-Notes/CSS-notes)
