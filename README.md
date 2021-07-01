@@ -25,5 +25,5 @@ journey with my classmates!!!** <br>
   * [My Terminal Notes](/Reading-Notes/Terminal)
   * [My Growth Mindset Notes](/Reading-Notes/growthmindset)
   * [My CSS Notes](/Reading-Notes/CSS-notes)  
-  * [My Dynamic Java Notes](/Reading-Notes/Dynamic-Java)
+  * [My Java Script Notes](/Reading-Notes/Dynamic-Java)
   
