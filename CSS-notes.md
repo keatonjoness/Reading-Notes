@@ -71,4 +71,29 @@ users-- how they are styled, laid out, etc.
    <li> Attribute selector [attr=value] </li>
    </ul> 
 
+   #### What is Color Property in CSS?
+   * The color CSS property sets the foreground color value <br>
+    of an element's text and text decorations, and sets the <currentcolor> value.
    
+   * Currentcolor may be used as an indirect value on other properties and is the 
+     default for other color properties, such as border-color. 
+    
+   
+   ### Combinators
+    * Combinators are selectors that establish a relationship between two <br>
+      or more simple selectors, such as "A is a child of B" or "A is adjacent to B."
+
+     
+      #### Different Combinators
+      <ul>
+        <li> Adjacent sibling combinator A + B </li>
+        <li> General sibling combinator A ~ B </li>
+        <li> Child combinator A > B </li>
+        <li> Descendant combinator A B </li>
+        <li> Column combinator A || B </li>
+        </ul> 
+
+
+        ### Reset CSS 
+        * A reset stylesheet is a collection of CSS rules <br>
+          used to clear the formatting of HTML elements. 
