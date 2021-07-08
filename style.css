@@ -1,0 +1,56 @@
+<style>
+    p{
+      color: rgb(166, 247, 16); 
+      font-size: larger;
+    }
+    
+    h1{
+      color: rgb(166, 247, 16);
+      font-size: 3em;
+    }
+    
+    div{
+      background-color: rgb(166, 247, 16);
+    }
+    
+    title{
+      color: black;
+    }
+  
+    p{
+    font-family: "Copperplate", fantasy;
+  }
+  
+  img{
+    float: top;
+  }
+  
+  body{
+    background-color: black;
+  }
+  
+  h2{
+    color: rgb(166, 247, 16); font-size: larger;
+  }
+
+  a{
+    color: rgb(166, 247, 16); font-size: large;
+  }
+  
+  h1{
+    font-family: "DejaVu Sans Mono", monospace;
+  }
+  
+  h2{
+    font-family: "DejaVu Sans Mono", monospace; 
+  }
+ 
+  li{
+    font-family: "DejaVu Sans Mono", monospace;
+    font-size:medium
+  }
+
+  
+    </style>
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arbutus">
