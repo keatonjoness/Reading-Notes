@@ -30,3 +30,5 @@ journey with my classmates!!!** <br>
   * [My Loop Notes](/Reading-Notes/Operators-Loops)
   * [My Revision Notes](/Reading-Notes/Revisions)
   * [My Programming Java Notes](/Reading-Notes/Programming)
+  * [My Structure HTML Notes](/Reading-Notes/Structure)
+  
