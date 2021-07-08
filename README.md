@@ -29,4 +29,4 @@ journey with my classmates!!!** <br>
   * [My Java Script Notes](/Reading-Notes/Dynamic-Java)
   * [My Loop Notes](/Reading-Notes/Operators-Loops)
   * [My Revision Notes](/Reading-Notes/Revisions)
-  * [My Prgramming Java Notes](/Reading-Notes/Programming)
+  * [My Programming Java Notes](/Reading-Notes/Programming)
