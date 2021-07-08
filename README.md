@@ -21,9 +21,12 @@ journey with my classmates!!!** <br>
   </ul>
 
 ## Table of Contents
+ 
   * [My Markdown Notes](/Reading-Notes/Markdown)
   * [My Terminal Notes](/Reading-Notes/Terminal)
   * [My Growth Mindset Notes](/Reading-Notes/growthmindset)
   * [My CSS Notes](/Reading-Notes/CSS-notes)  
   * [My Java Script Notes](/Reading-Notes/Dynamic-Java)
-  
+  * [My Loop Notes](/Reading-Notes/Operators-Loops)
+  * [My Revision Notes](/Reading-Notes/Revisions)
+  * [My Prgramming Java Notes](/Reading-Notes/Programming)
