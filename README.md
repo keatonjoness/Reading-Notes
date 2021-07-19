@@ -20,7 +20,7 @@ journey with my classmates!!!** <br>
   <li> art 🎨 </li>
   </ul>
 
-## Table of Contents
+## Code 102 Reading Notes
  
   * [My Markdown Notes](/Reading-Notes/Markdown)
   * [My Terminal Notes](/Reading-Notes/Terminal)
@@ -32,3 +32,5 @@ journey with my classmates!!!** <br>
   * [My Programming Java Notes](/Reading-Notes/Programming)
   * [My Structure HTML Notes](/Reading-Notes/Structure)
   
+## Code 201 Reading Notes
+
