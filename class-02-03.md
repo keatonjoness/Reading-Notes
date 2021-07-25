@@ -1,6 +1,6 @@
  # HTML Links, JS Functions, and Intro to CSS Layout
  
- ##HTML Links 
+ ## HTML Links 
 
  * A link defines a relationship between two resources on the web.
 
