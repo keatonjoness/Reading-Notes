@@ -45,7 +45,7 @@ Semantic Markup Terms:
 
 * CSS gives you the power to create rules that control the way that each individual box (and the contents of that box) is resented.
 
-* CSS Terms:
+  CSS Terms:
 <ul>
     <li>Block Elements</li>
     <li>Inline Elements</li>
@@ -65,7 +65,7 @@ Semantic Markup Terms:
   web applications. A majority of websites use it and all major web browsers <br>
   have a devoted JavaScript engine to execute it. JavaScript is single threaded.
 
- * JS Terms:
+   JS Terms:
   <ul>
     <li>Script</li>
     <li>Statement</li>
