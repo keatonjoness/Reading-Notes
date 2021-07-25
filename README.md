@@ -34,5 +34,6 @@ journey with my classmates!!!** <br>
   
 ## Code 201 Reading Notes
 
-* [My HTML Text, CSS Introduction, and Basic JavaScript Instruction Notes](/Reading-Notes/class-02)
+* [My HTML Text, CSS Introduction, and Basic JavaScript Instruction Notes](/Reading-Notes/class-02-01)
+* [My HTML Lists, CSS Boxes, JS Control Flow](/Reading-Notes/class-02-02)
 
