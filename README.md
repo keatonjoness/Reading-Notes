@@ -37,4 +37,5 @@ journey with my classmates!!!** <br>
 * [My HTML Text, CSS Introduction, and Basic JavaScript Instruction Notes](/Reading-Notes/class-02-01)
 * [My HTML Lists, CSS Boxes, JS Control Flow](/Reading-Notes/class-02-02)
 * [My HTML Links, JS Functions, and Intro to CSS Layout](/Reading-Notes/class-02-03)
+* [My HTML Images; CSS Color & Text](/Reading-Notes/class-02-04)
 
