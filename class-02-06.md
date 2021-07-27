@@ -33,3 +33,24 @@ Domain modeling is the process of :
 
 <li> The footer belongs inside the <tfoot> element.</li>
 </ol>
+
+## JS Constructor Functions
+
+* creating an object constructor notaion :
+
+* create a new object using combimation of the new keyword and the object() constructor function
+add proparties and methods to it using dot notation.
+
+* to create an empty object using var varName ={}.
+
+* to update property use dot notation or [] then enter the new value.
+
+* to delete use delete keyword.
+
+* The keyword this is commonly used inside functions and objects. Where the function is declared alters what this means. It always refers to one object, usually the object in which the function operates.
+
+* When a function is created at the top level of a script (that is, not inside another object or function), then it is in the global scope or global context.
+
+* All global variables also become properties of the window object. so when a function is in the global context, you can access global variables using the window object, as well as its other properties.
+
+* Arrays are a special type of object .

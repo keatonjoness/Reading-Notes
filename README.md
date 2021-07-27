@@ -39,3 +39,4 @@ journey with my classmates!!!** <br>
 * [My HTML Links, JS Functions, and Intro to CSS Layout](/Reading-Notes/class-02-03)
 * [My HTML Images; CSS Color & Text](/Reading-Notes/class-02-04)
 * [My Problem Domain, Objects, and the DOM](/Reading-Notes/class-02-05)
+* [My HTML Tables; JS Constructor Functions](/Reading-Notes/class-02-06)
