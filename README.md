@@ -35,8 +35,12 @@ journey with my classmates!!!** <br>
 ## Code 201 Reading Notes
 
 * [My HTML Text, CSS Introduction, and Basic JavaScript Instruction Notes](/Reading-Notes/class-02-01)
-* [My HTML Lists, CSS Boxes, JS Control Flow](/Reading-Notes/class-02-02)
-* [My HTML Links, JS Functions, and Intro to CSS Layout](/Reading-Notes/class-02-03)
-* [My HTML Images; CSS Color & Text](/Reading-Notes/class-02-04)
-* [My Problem Domain, Objects, and the DOM](/Reading-Notes/class-02-05)
-* [My HTML Tables; JS Constructor Functions](/Reading-Notes/class-02-06)
+* [My HTML Lists, CSS Boxes, JS Control Flow Notes](/Reading-Notes/class-02-02)
+* [My HTML Links, JS Functions, and Intro to CSS Layout Notes](/Reading-Notes/class-02-03)
+* [My HTML Images; CSS Color & Text Notes](/Reading-Notes/class-02-04)
+* [My Problem Domain, Objects, and the DOM Notes](/Reading-Notes/class-02-05)
+* [My HTML Tables; JS Constructor Functions Notes](/Reading-Notes/class-02-06)
+* [My More CSS Layout Notes](/Reading-Notes/class-02-07)
+* [My Forms and Event Notes ](/Reading-Notes/class-02-08)
+* [My Debugging Notes](/Reading-Notes/class-02-09)
+* [My Assorted Topics Notes](Reading-Notes/class-02-10)
