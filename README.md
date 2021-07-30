@@ -43,4 +43,4 @@ journey with my classmates!!!** <br>
 * [My More CSS Layout Notes](/Reading-Notes/class-02-07)
 * [My Forms and Event Notes ](/Reading-Notes/class-02-08)
 * [My Debugging Notes](/Reading-Notes/class-02-09)
-* [My Assorted Topics Notes](Reading-Notes/class-02-10)
+* [My Assorted Topics Notes](/Reading-Notes/class-02-10)
